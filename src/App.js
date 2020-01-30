@@ -14,7 +14,7 @@ class App extends Component {
 
   updateUser(user) {
     this.setState({
-      user,
+      user
     });
   }
 
